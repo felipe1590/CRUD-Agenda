@@ -1,0 +1,15 @@
+C:\Users\Felipe\source\repos\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Felipe\source\repos\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\Felipe\source\repos\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Felipe\source\repos\CRUD\CRUD\bin\Debug\CRUD.xml
+C:\Users\Felipe\source\repos\CRUD\CRUD\obj\Debug\CRUD.vbproj.AssemblyReference.cache
+C:\Users\Felipe\source\repos\CRUD\CRUD\obj\Debug\CRUD.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe\source\repos\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\Felipe\source\repos\CRUD\CRUD\obj\Debug\CRUD.Resources.resources
+C:\Users\Felipe\source\repos\CRUD\CRUD\obj\Debug\CRUD.vbproj.GenerateResource.cache
+C:\Users\Felipe\source\repos\CRUD\CRUD\obj\Debug\CRUD.vbproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\Felipe\source\repos\CRUD\CRUD\obj\Debug\CRUD.xml
+C:\Users\Felipe\source\repos\CRUD\CRUD\obj\Debug\CRUD.pdb
+C:\Users\Felipe\source\repos\CRUD\CRUD\bin\Debug\MySql.Data.dll
+C:\Users\Felipe\source\repos\CRUD\CRUD\obj\Debug\CRUD.vbproj.CopyComplete
